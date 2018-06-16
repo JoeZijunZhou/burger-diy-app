@@ -1,3 +1,12 @@
+# Burger DIY App
+This is a React.js web app.
+
+You can DIY you burger, get the price of the burger, and order it using this app.
+
+Author: Zijun Zhou
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

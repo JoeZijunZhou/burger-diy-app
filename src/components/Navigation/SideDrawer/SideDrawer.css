@@ -19,11 +19,11 @@
 }
 
 .Open {
-    transform: translate(0);
+    transform: translateX(0);
 }
 
 .Close {
-    transform: translate(-100%);
+    transform: translateX(-100%);
 }
 
 .Logo {
